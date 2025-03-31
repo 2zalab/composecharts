@@ -30,7 +30,27 @@ This repository contains several examples of charts implemented with Jetpack Com
 - Radar charts
 
 You'll also find examples of responsive layouts for different screen sizes.
+## Gallery
 
+### Mobile Screens
+<div align="center">
+  <p>
+    <img src="app/src/main/res/drawable/line.png" width="160" alt="Line Chart"/>
+    <img src="app/src/main/res/drawable/pie.png" width="160" alt="Pie Chart"/>
+    <img src="app/src/main/res/drawable/radar.png" width="160" alt="Radar Chart"/>
+    <img src="app/src/main/res/drawable/histogram.png" width="160" alt="Histogram"/>
+    <img src="app/src/main/res/drawable/bar.png" width="160" alt="Bar Chart"/>
+  </p>
+</div>
+
+### Tablet Screens
+<div align="center">
+  <p>
+    <img src="app/src/main/res/drawable/line_tablet.png" width="260" alt="Line Chart (Tablet)"/>
+    <img src="app/src/main/res/drawable/histo_tablet.png" width="260" alt="Histogram (Tablet)"/>
+    <img src="app/src/main/res/drawable/bar_tablet.png" width="260" alt="Bar Chart (Tablet)"/>
+  </p>
+</div>
 
 ## Installation
 
