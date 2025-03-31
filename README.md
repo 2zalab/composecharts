@@ -16,6 +16,22 @@ ComposeCharts is a modern and powerful data visualization library for Jetpack Co
 - **Simple and intuitive API**: Easy to integrate into your Compose projects
 - **Data utilities**: Functions to transform and analyze your data
 
+## Demonstration
+
+For concrete examples of how to use this library, please visit our demonstration repository:
+
+[ComposeChartsDemo](https://github.com/2zalab/composechartsDemo/)
+
+This repository contains several examples of charts implemented with Jetpack Compose, including:
+- Line charts
+- Histograms
+- Bar charts
+- Pie charts
+- Radar charts
+
+You'll also find examples of responsive layouts for different screen sizes.
+
+
 ## Installation
 
 ### 1. Add the JitPack repository
